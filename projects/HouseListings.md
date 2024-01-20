@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/HouseListingIcon.png-square.jpg
+image: img/HouseListingIcon.png
 title: "House Listings"
 date: 2022
 published: true
