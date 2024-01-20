@@ -11,7 +11,7 @@ labels:
 summary: "A project for ICS 211 that utilizes linked lists too record information for Houses that are for sale"
 ---
 
-<img align="left" width="300" height="300" src="../img/HouseListingsimg.png" class="img-thumbnail">
+<img align="left" width="500" height="500" src="../img/HouseListingsimg.png" class="img-thumbnail">
 
 
 This is a project that I made for my ICS 211 class that creates an application that runs in the terminal that would add houses and their information to a list. When you run the code it brings you to a menu where you can select an option by inputting the number that is next to the given option. You were given the options to add a house, remove a house, print all the houses, or the end the application. This project also dabbled into exception handling this would catch incorrect inputs and tell the user that they made a mistake. 
