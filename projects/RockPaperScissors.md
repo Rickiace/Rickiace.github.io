@@ -13,7 +13,7 @@ summary: "A Rock Paper Scissors game made in Java that uses GUI "
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/RockPaperScissorgame.png" class="img-thumbnail" >
+  <img width="600px" src="../img/RockPaperScissorgame.png" class="img-thumbnail" >
 </div>
 
 This Rock-Paper-Scissors game was a project that I made in ICS 211 using java. The purpose of the project was to improve our repertoire in the Java language by letting us create a game that utilizes GUI. 
