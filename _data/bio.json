@@ -21,35 +21,58 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Linux", "Git/GitHub", "VScode" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "B.S., Computer Science (Expected Fall, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023",
       "endDate": "Present",
       "courses": [
       ]
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "A.S., Information & Computer Sciences (Fall 2022)",
+      "studyType": "A.S.",
+      "startDate": "2020",
+      "endDate": "2023",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Pearl City High School, Pearl City, HI",
+      "area": "High School Diploma (May 2020)",
+      "studyType": "High School Diploma",
+      "startDate": "2016",
+      "endDate": "2020",
+      "courses": [
+      ]
     }
+
+
+
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Glow Golf",
+      "position": "Customer Service",
+      "website": "https://www.glowgolfhawaii.com/",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Provided engaging tours and clear instructions for the golf course.",
+        "Maintain and monitored equipment to ensure safety.", 
+        "Managed cash register responsibilities.",
+        "Helped the manager with different tasks to keep things running smoothly."
       ]
     },
     {
@@ -65,6 +88,7 @@
       ]
     }
   ],
+  
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
@@ -92,6 +116,7 @@
       ]
     }
   ],
+  
   "awards": [
     {
       "title": "B+ Scholarship",
