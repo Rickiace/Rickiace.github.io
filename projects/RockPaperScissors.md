@@ -36,5 +36,4 @@ byte ADCRead(byte ch)
 }
 ```
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 Source: <a href="https://github.com/Rickiace/RockPaperScissors"><i class="large github icon "></i>Rickiace/RockPaperScissors</a>
