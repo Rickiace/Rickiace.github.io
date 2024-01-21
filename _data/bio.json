@@ -74,62 +74,59 @@
         "Managed cash register responsibilities.",
         "Helped the manager with different tasks to keep things running smoothly."
       ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
     }
   ],
   
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Pearl City High School",
+      "website": "https://www.pchs.k12.hi.us/",
+      "position": "Student Government Member",
+      "startDate": "2018",
+      "endDate": "2020",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Assisted in organizing and creating events.",
+        "Helped to make props for parades, plays, and assemblies.",
+        "Worked with teachers and fellow student council members to achieve shared goals.",
+        "Participated in fundraising activities."
       ]
     },
     {
-      "organization": "",
+      "organization": "Pearl City High School",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Momilani Volunteer",
+      "startDate": "2016",
+      "endDate": "2020",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Managed various games and food stands.",
+        "Ensured the safety of kids during events.",
+        "Set up and take down booths before and after each event."
       ]
     }
   ],
   
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Manoa Opportunity Grant",
+      "date": "2023-Present",
+      "awarder": "UH Manoa",
+      "summary": "Undergraduate students are awarded the Manoa Opportunity Grant if they: (1) Are a first time Bachelor’s degree seeker, and (2) Enrolled in at least 6 UH Mānoa credits applicable toward your degree."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List, University of Hawai'i at Manoa",
+      "date": "2020-present",
+      "awarder": "UH Manoa",
+      "summary": "Undergraduate students are awarded the Dean's List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester."
+    },
+    {
+      "title": "Pearl City High School Valedictorian",
+      "date": "2020",
+      "awarder": "Pearl City High School",
+      "summary": "This award was given to Pearl City High School Graduates with a cumulative GPA of 4.0 or higher."
     }
+    
   ],
   "references": [
     {
