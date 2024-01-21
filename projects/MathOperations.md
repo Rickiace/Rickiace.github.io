@@ -13,10 +13,11 @@ summary: "A small project from my ICS 211 class that utilizes recursion."
 
 <img align="right" width="500" height="500" src="../img/MathOperationsImg.png" class="img-thumbnail">
 
+This is a small project that was assigned to me in ICS 211. I was tasked to make some simple math operations but the challenge was to use recursions for those operations. The code I created when run would open up a menu in the terminal that would ask the user to choose which operation they wanted to do. In this case, I coded for the power operation, a decrease function, and a summation operation. Although these were very simple operations, it took me a long time to figure out how to write the code in recursion.
 
-This is a project that I made for my ICS 211 class that creates an application that runs in the terminal that would add houses and their information to a list. When you run the code it brings you to a menu where you can select an option by inputting the number that is next to the given option. You were given the options to add a house, remove a house, print all the houses, or the end the application. This project also dabbled into exception handling this would catch incorrect inputs and tell the user that they made a mistake. 
+This was an individual project. Normally you would use Java's built in libraries to solve for these simple operations, but needing to use recursion rather than rely on the libraries forced me to have to be creative with my thinking. There are many things that I could've done to improve this code like implementing a GUI or having more than just math operations. 
 
-Since this was a solo project and probably one of the biggest projects we've done for the class, I learned various things about Java. One of the biggest things that I learned when I was coding this project was linking the many classes together. I remember having problems with calling to other classes because I had a hard time keeping up with the many classes implemented. I also deepened my learning about nodes and linked lists, and I got to learn and experience exception handling, which was fairly challenging but I eventually got the hang of it.
+Overall, the purpose of this project was to get me familiar with using recursion. Although I still have problems implementing recursion to my code I at least have this project to look back and reference too when I'm having those tough times.
 
 Here is a snippet of my code on how the recursive function for the power operation worked:
 ```java
