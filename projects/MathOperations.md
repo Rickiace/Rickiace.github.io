@@ -17,7 +17,7 @@ This is a small project that was assigned to me in ICS 211. I was tasked to make
 
 This was an individual project. Normally you would use Java's built in libraries to solve for these simple operations, but needing to use recursion rather than rely on the libraries forced me to have to be creative with my thinking. There are many things that I could've done to improve this code like implementing a GUI or having more than just math operations. 
 
-Overall, the purpose of this project was to get me familiar with using recursion. Although I still have problems implementing recursion to my code I at least have this project to look back and reference too when I'm having those tough times.
+Overall, the purpose of this project was to get me familiar with using recursion. Although I still have problems implementing recursion to my code I at least have this project to look back and reference to when I'm having those tough times.
 
 Here is a snippet of my code on how the recursive function for the power operation worked:
 ```java
