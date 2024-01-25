@@ -7,7 +7,7 @@ date: 2022
 published: true
 labels:
   - Java
-  - Gui
+  - GUI
   - Game
 summary: "A Rock Paper Scissors game made in Java that uses GUI "
 ---
