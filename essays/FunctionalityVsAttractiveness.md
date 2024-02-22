@@ -23,8 +23,8 @@ I’ve experienced many different coding standards throughout my time as a progr
 
 
 <div style="text-align:center">
-<img  width="500" height="500" src="../img/HTML.png" />
-<img  width="500" height="500" src="../img/Bootstrap.png" />
+<img  width="500" height="300" src="../img/HTML.png" />
+<img  width="500" height="300" src="../img/Bootstrap.png" />
 </div>
 
 
