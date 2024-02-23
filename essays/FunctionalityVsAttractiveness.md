@@ -22,6 +22,9 @@ Although there are numerous advantages to using Bootstrap 5, it may not always b
 # BOOTSTRAP 5 VS ME
 I had never experienced creating a website page before, and learning how to do so with Bootstrap 5 made the experience even more complex. In my 314 class, we were assigned a practice WOD to practice HTML and CSS. I attempted the WOD but couldn't get anywhere near the expected result, so I ended up watching the videos that were given to see where I made mistakes and how it was supposed to be done. After a couple more WODs focusing on HTML and CSS, I finally started to get the hang of it, but as soon as I was getting comfortable, they assigned us to use Bootstrap 5. Suddenly, I was lost again; it got to the point where I didn't even know which was Bootstrap and which was pure HTML and CSS. I also had a hard time keeping up with my code. The amount of content we put in classes just to make a single section look the way it's supposed to be presented is crazy. Even now, I still don't understand when things should be in the CSS file or in the HTML file. There is only one thing I can say about Bootstrap 5: it definitely makes it easier to make the website look more appealing, but at the cost of my sanity.
 
+<div style="text-align:center">
+<p> These are the projects made using Bootstrap 5 and the other just using HTML and CSS</p>
+</div>
 
 <div style="text-align:center">
 <img  width="500" height="300" src="../img/HTML.png" />
