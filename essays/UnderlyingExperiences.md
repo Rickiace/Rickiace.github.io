@@ -22,7 +22,7 @@ One of the experiences that ICS 314 has through us is Agile management, especial
 
 # Patterns In Play
 
-<div style="text-align:right">
+<div style="text-align:left">
 <img  width="200" height="200" src="../img/singleton.png" />
 </div>
 Another experience we dove into  is Design Patterns, and I really got to see them in action during my final project. I was working with Meteor to create a collection that handled user info and displayed it on user profile pages. It had elements of a Singleton design pattern, because I made sure there was just one instance of the user collection that the whole app could access. This was super helpful for keeping the user data consistent everywhere it was used. Thinking about it now, the same idea could work for other stuff too and not just websites, for example in video game development a singleton might be used to manage the game's stats like keeping track of scores or progress which allows different parts of the game to access and update the state of the game. Design patterns are pretty handy tools; they help solve common problems in a lot of different projects, not just the ones on the web.
