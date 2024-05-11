@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/finalaboutus.png
+image: img/finalaboutus2.png
 title: "Foodie Finders"
 date: 2024
 published: true
@@ -14,17 +14,20 @@ summary: "An in depth website that allow users to find available restaurants the
 ---
 
 <div style="text-align:center">
-<img  width="500" height="300" src="../finalproject.png" />
+<img  width="500" height="500" src="../img/finalproject.png" />
 </div>
 
 # Overview
 
-The FoodieFinders web application allows users from University Of Manoa  to find restaurants that are available on the campus. Users are able to create an account and utilize the tools available for them on the website. If the user is a student the student is able to search for restaurants using a filter and they are able to leave reviews of restaurants they have eaten from. If the user is a vendor the vendor is allowed to create or add a restaurant to an already collection of restaurants for students to see and review.
+The FoodieFinders web application allows users from the University of Manoa to find restaurants that are available on campus. Users can create an account and utilize the tools available on the website. If the user is a student, they can search for restaurants using a filter and leave reviews of restaurants they have eaten at. If the user is a vendor, they are allowed to create or add a restaurant to an existing collection of restaurants for students to see and review.
 
 # Role
+<div style="text-align:center">
+<img  width="500" height="500" src="../img/finaluser.png" />
+</div>
 
-My role in this final project was to handle how users data is collected and shown on the website. I created a collection to store users information such as their email, first name, last name, and their profile picture. After the user signs up for the website where she/he enters the information previously mentioned the user is able to view their profile on their "My Profile Page". On this page the user is able to see the information they have entered and the reviews they have made on restaurants they have visited they are also allowed to edit their account information and their review from this page. This page also have other small functionalities such as redirecting users to "Our Vendors Page" or if the user is a vendor there is a functionality where they are able to be redirected to add their restaurant. I also have a small role on the reviews where I had to use my collection to show the users first name and their profile picture on every review.
+My role in this final project was to handle how user data is collected and displayed on the website. I created a collection to store user information such as their email, first name, last name, and profile picture. After the user signs up for the website and enters the information previously mentioned, they are able to view their profile on the "My Profile Page." On this page, the user can see the information they have entered and the reviews they have made on restaurants they have visited. They are also allowed to edit their account information and their reviews from this page. This page also has other small functionalities, such as redirecting users to the "Our Vendors Page," or if the user is a vendor, there is a functionality that allows them to be redirected to add their restaurant. I also had a small role with the reviews, where I used my collection to display the users' first names and their profile pictures on every review.
 
 # What I learned
 
-I learned 
+To be quite honest I learned more doing this final project than anything from the semester. It really help me build my teamwork skills since this was the first ever project I had to work with other team members for a coding project. I acquired numerous web development skills along with a deeper understanding of general coding practices, such as design patterns and coding standards. Since the project heavily utilized Meteor, it provided me with a comprehensive exposure to both front-end and back-end development, including interface design. Working with meteor, since I was in charge with user collection I learned to manage database operations and publish subscribe patterns. I hope to get to work more on application networks such as meteor to improve my skills and get a deeper understanding on them.
