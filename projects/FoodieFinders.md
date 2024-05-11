@@ -14,7 +14,7 @@ summary: "An in depth website that allow users to find available restaurants the
 ---
 
 <div style="text-align:center">
-<img  width="500" height="500" src="../img/finalproject.png" />
+<img  width="500" height="300" src="../img/finalproject.png" />
 </div>
 
 # Overview
@@ -23,7 +23,7 @@ The FoodieFinders web application allows users from the University of Manoa to f
 
 # Role
 <div style="text-align:center">
-<img  width="500" height="500" src="../img/finaluser.png" />
+<img  width="500" height="300" src="../img/finaluser.png" />
 </div>
 
 My role in this final project was to handle how user data is collected and displayed on the website. I created a collection to store user information such as their email, first name, last name, and profile picture. After the user signs up for the website and enters the information previously mentioned, they are able to view their profile on the "My Profile Page." On this page, the user can see the information they have entered and the reviews they have made on restaurants they have visited. They are also allowed to edit their account information and their reviews from this page. This page also has other small functionalities, such as redirecting users to the "Our Vendors Page," or if the user is a vendor, there is a functionality that allows them to be redirected to add their restaurant. I also had a small role with the reviews, where I used my collection to display the users' first names and their profile pictures on every review.
