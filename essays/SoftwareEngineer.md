@@ -4,7 +4,7 @@ type: essay
 title: "Relearning and Growing in the Software Engineering Journey"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-20
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
