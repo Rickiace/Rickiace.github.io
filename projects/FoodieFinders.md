@@ -14,7 +14,7 @@ summary: "An in depth website that allow users to find available restaurants the
 ---
 
 <div style="text-align:center">
-<img  width="400" height="300" src="../img/finalproject.png" />
+<img  width="500" height="400" src="../img/finalproject.png" />
 </div>
 
 # Overview
